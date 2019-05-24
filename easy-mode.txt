@@ -3,3 +3,4 @@ made it even easier.
 took out something small
 added extra easy mode
 added timer
+used github to edit this
