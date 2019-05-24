@@ -3,3 +3,5 @@ New change 1
 Change number 2a
 change number 2b
 Adding timers
+linked in hard mode
+
